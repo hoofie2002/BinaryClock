@@ -26,7 +26,7 @@ public class BinaryClockView extends View {
         circleBackGround = new Paint();
         //inFill.setColor(Color.RED);
         inFill.setColor(Color.rgb(85,  97,  255));
-        circleBackGround.setColor(Color.rgb(64, 64, 64));
+        circleBackGround.setColor(Color.rgb(42, 42, 42));
         backGround.setColor(Color.BLACK);
     	// Colour the Backgound
 

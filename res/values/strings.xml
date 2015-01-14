@@ -1,5 +1,4 @@
 <resources>
-
     <string name="app_name">BinaryClock</string>
-
+    <string name="menu_about">About</string>   
 </resources>
